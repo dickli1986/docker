@@ -1,0 +1,4 @@
+# Project exclude paths
+/docker-consumer/target/
+/docker-provider/docker-provider-api/target/
+/docker-provider/docker-provider-service/target/
