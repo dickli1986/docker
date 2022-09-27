@@ -1,7 +1,7 @@
-package com.dickli.service.impl;
+package com.dickli.welcome.service.impl;
 
 import com.alibaba.nacos.api.config.annotation.NacosValue;
-import com.dickli.service.WelcomeService;
+import com.dickli.welcome.service.WelcomeService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.config.annotation.DubboService;
 

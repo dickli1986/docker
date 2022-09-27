@@ -1,6 +1,6 @@
 package com.dickli.controller;
 
-import com.dickli.service.WelcomeService;
+import com.dickli.welcome.service.WelcomeService;
 import org.apache.dubbo.common.utils.StringUtils;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.springframework.stereotype.Controller;
